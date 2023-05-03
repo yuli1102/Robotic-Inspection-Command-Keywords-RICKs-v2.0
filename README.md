@@ -21,7 +21,7 @@ In this project, we collected sEMG data and audio data synchronously at a rate o
   <img src="https://user-images.githubusercontent.com/44143351/232257152-2bdccfe7-1e5f-4ceb-a210-d1e0208aec15.jpg" alt="sEMG sensor" width="50%" height="auto">
 </p>
 
-Raw data can be downloaded from the "Releases", the following image is an example of the collected sEMG and audio data. Instruction of the raw data can be found in "Raw data instruction.md" in this project.
+Raw data can be downloaded from https://www.dropbox.com/s/d3j5usnntsfiajl/RICKs-v2.0.zip?dl=0, the following image is an example of the collected sEMG and audio data. Instruction of the raw data can be found in "Raw data instruction.md" in this project.
 <p align="center">
   <img src="https://user-images.githubusercontent.com/44143351/232256546-72b93a57-b373-4281-ba72-448ac82b309a.png" alt="sEMG sensor" width="50%" height="auto">
 </p>
