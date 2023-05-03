@@ -18,7 +18,7 @@ Li, Y., Dong, P., Yao, S., & Qin, R. (2023). Subject-invariant sEMG Representati
 RICKs v2.0 comprises sEMG and audio data of 23 keywords gathered from 11 subjects. The 11 subjects contributed their data to this study, which ages ranged from 19 to 46 years old. Of these participants, four were male, and the remaining seven were female. All subjects spoke English fluently, and four of them were native English speakers. 
 In this project, we collected sEMG data and audio data synchronously at a rate of 40000. There were 7 channels for sEMG data, and their locations were attached around the mouth as shown in the figure. Additionally, there were 8 ground electrodes attached to the bones.
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/44143351/232257152-2bdccfe7-1e5f-4ceb-a210-d1e0208aec15.jpg" alt="sEMG sensor" width="50%" height="auto">
+  <img src="https://user-images.githubusercontent.com/44143351/235980630-704e6b55-a051-41ab-b480-e82fb8b82dc6.png" alt="sEMG sensor" width="50%" height="auto">
 </p>
 
 Raw data can be downloaded from https://www.dropbox.com/s/d3j5usnntsfiajl/RICKs-v2.0.zip?dl=0, the following image is an example of the collected sEMG and audio data. Instruction of the raw data can be found in "Raw data instruction.md" in this project.
