@@ -26,6 +26,9 @@ Raw data can be downloaded from https://www.dropbox.com/s/d3j5usnntsfiajl/RICKs-
   <img src="https://user-images.githubusercontent.com/44143351/232256546-72b93a57-b373-4281-ba72-448ac82b309a.png" alt="sEMG sensor" width="50%" height="auto">
 </p>
 
+## Experiment Results
+Experiment results are concluded in the paper, details can be found from "Experiment Results/All Experiments Performance.xlsx" in this repository.
+
 ## Note
 This paper has just been submitted to the ACM MM conference. The citation will be updated later. 
 Raw data can be downloaded now, but the code for data preprocessing and the model will be uploaded after acceptance.
