@@ -21,7 +21,8 @@ In this project, we collected sEMG data and audio data synchronously at a rate o
   <img src="https://user-images.githubusercontent.com/44143351/235980630-704e6b55-a051-41ab-b480-e82fb8b82dc6.png" alt="sEMG sensor" width="50%" height="auto">
 </p>
 
-Raw data can be downloaded from (Link will be updated soon), the following image is an example of the collected sEMG and audio data. Instruction of the raw data can be found in "Raw data instruction.md" in this project.
+Raw data can be downloaded from [here](https://drive.google.com/drive/folders/1ZUkjGaJ490aIn4ibi_ocKNpsL6zRkMee?usp=drive_link), the following image is an example of the collected sEMG and audio data. Instruction of the raw data can be found in "Raw data instruction.md" in this project.
+
 <p align="center">
   <img src="https://user-images.githubusercontent.com/44143351/232256546-72b93a57-b373-4281-ba72-448ac82b309a.png" alt="sEMG sensor" width="50%" height="auto">
 </p>
