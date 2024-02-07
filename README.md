@@ -29,8 +29,7 @@ Raw data can be downloaded from [here](https://drive.google.com/drive/folders/1Z
 
 The final converted Scaleogram data can be downloaded from [here](https://drive.google.com/drive/folders/1yvobQDLeBAkvNWtwp86-UeuDjkwbJCGH?usp=drive_link). The following image is an example of final converted Scaleogram.
 <p align="center">
-  <img src="![image](https://github.com/yuli1102/Robotic-Inspection-Command-Keywords-RICKs-v2.0/assets/44143351/f780ae39-957c-4acc-bada-cf9bd5b857f5)
-" alt="scaleogram" width="50%" height="auto">
+  <img src="![image](https://github.com/yuli1102/Robotic-Inspection-Command-Keywords-RICKs-v2.0/assets/44143351/f780ae39-957c-4acc-bada-cf9bd5b857f5)" alt="scaleogram" width="50%" height="auto">
 </p>
 
 Example code in folder of [Data Processing](./Data_Processing/) shows how we process the raw data to final scaleogra data. 
