@@ -14,7 +14,7 @@ Li, Y., Dong, P., Yao, S., & Qin, R. (2023). Subject-invariant sEMG Representati
 
 
 ## Data
-
+# RICK V2.0
 RICKs v2.0 comprises sEMG and audio data of 23 keywords gathered from 11 subjects. The 11 subjects contributed their data to this study, which ages ranged from 19 to 46 years old. Of these participants, four were male, and the remaining seven were female. All subjects spoke English fluently, and four of them were native English speakers. 
 In this project, we collected sEMG data and audio data synchronously at a rate of 40000. There were 7 channels for sEMG data, and their locations were attached around the mouth as shown in the figure. Additionally, there were 8 ground electrodes attached to the bones.
 <p align="center">
@@ -33,6 +33,9 @@ The final converted Scaleogram data can be downloaded from [here](https://drive.
 </p>
 
 Example code in folder of [Data Processing](./Data_Processing/) shows how we process the raw data to final scaleogra data. 
+
+# NINAPro DB1
+We also used a public dataset of NINAPro DB1, which can be found here. The converted Scaleogram of this dataset can be downloaded here.
 
 ## Experiment Results
 Experiment results are concluded in the paper, details can be found from "Experiment Results/All Experiments Performance.xlsx" in this repository.
