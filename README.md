@@ -27,7 +27,13 @@ Raw data can be downloaded from [here](https://drive.google.com/drive/folders/1Z
   <img src="https://user-images.githubusercontent.com/44143351/232256546-72b93a57-b373-4281-ba72-448ac82b309a.png" alt="sEMG sensor" width="50%" height="auto">
 </p>
 
-The final converted Scaleogram data can be downloaded from [here](https://drive.google.com/drive/folders/1yvobQDLeBAkvNWtwp86-UeuDjkwbJCGH?usp=drive_link). Example code in folder of [Data Processing](./Data_Processing/) shows how we process the raw data to final scaleogra data. 
+The final converted Scaleogram data can be downloaded from [here](https://drive.google.com/drive/folders/1yvobQDLeBAkvNWtwp86-UeuDjkwbJCGH?usp=drive_link). The following image is an example of final converted Scaleogram.
+<p align="center">
+  <img src="![image](https://github.com/yuli1102/Robotic-Inspection-Command-Keywords-RICKs-v2.0/assets/44143351/f780ae39-957c-4acc-bada-cf9bd5b857f5)
+" alt="scaleogram" width="50%" height="auto">
+</p>
+
+Example code in folder of [Data Processing](./Data_Processing/) shows how we process the raw data to final scaleogra data. 
 
 ## Experiment Results
 Experiment results are concluded in the paper, details can be found from "Experiment Results/All Experiments Performance.xlsx" in this repository.
