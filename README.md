@@ -38,7 +38,7 @@ Example code in folder of [Data Processing](./Data_Processing/) shows how we pro
 We also used a public dataset of NINAPro DB1, which can be found [here](https://ninapro.hevs.ch/instructions/DB1.html). The converted Scaleogram of this dataset can be downloaded [here](https://drive.google.com/drive/folders/1z45hrx9GgVlabqyUZVAuV2KQIsBrjDHw?usp=drive_link).
 
 # Experiment Results
-Experiment results are concluded in the paper, details can be found from "Experiment Results/All Experiments Performance.xlsx" in this repository.
+Experiment results analysis code is concluded in the paper, details can be found from "Experiment Results/[Experiments_performance_1213.ipynb](https://github.com/yuli1102/Robotic-Inspection-Command-Keywords-RICKs-v2.0/blob/main/Experiment%20Results/Experiments_performance_1213.ipynb)" in this repository.
 
 # Note
 This paper has just been submitted to the IEEE HMS. The citation will be updated later. 
