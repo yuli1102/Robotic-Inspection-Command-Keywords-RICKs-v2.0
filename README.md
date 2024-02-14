@@ -35,7 +35,7 @@ The final converted Scaleogram data can be downloaded from [here](https://drive.
 Example code in folder of [Data Processing](./Data_Processing/) shows how we process the raw data to final scaleogra data. 
 
 ## NINAPro DB1
-We also used a public dataset of NINAPro DB1, which can be found [here](https://drive.google.com/drive/folders/1z45hrx9GgVlabqyUZVAuV2KQIsBrjDHw?usp=drive_link). The converted Scaleogram of this dataset can be downloaded here.
+We also used a public dataset of NINAPro DB1, which can be found [here](https://ninapro.hevs.ch/instructions/DB1.html). The converted Scaleogram of this dataset can be downloaded [here](https://drive.google.com/drive/folders/1z45hrx9GgVlabqyUZVAuV2KQIsBrjDHw?usp=drive_link).
 
 # Experiment Results
 Experiment results are concluded in the paper, details can be found from "Experiment Results/All Experiments Performance.xlsx" in this repository.
