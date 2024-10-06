@@ -4,7 +4,7 @@ If you use this repository, please cite the following paper. This paper has just
 Li, Y., Dong, P., Yao, S., & Qin, R. (2024). An sEMG-based Subject-independent Classification Network for Human-Robot Systems. 
 
 ~~~~  
-@article{li2023multi,
+@article{li2024multi,
   title={An sEMG-based Subject-independent Classification Network for Human-Robot Systems},
   author={Li, Yu and Dong, Penghao and Yao, Shanshan and Qin, Ruwen},
   year={2024},
