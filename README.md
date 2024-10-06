@@ -1,13 +1,12 @@
 ## Citation
-If you use this repository, please cite the following paper. 
+If you use this repository, please cite the following paper. This paper has just been submitted to the EAAI. The citation will be updated later. 
 
-Li, Y., Dong, P., Yao, S., & Qin, R. (2024). An sEMG-based Subject-independent Classification Network for Human-Robot Systems.arXiv preprint arXiv....
+Li, Y., Dong, P., Yao, S., & Qin, R. (2024). An sEMG-based Subject-independent Classification Network for Human-Robot Systems. 
 
 ~~~~  
 @article{li2023multi,
   title={An sEMG-based Subject-independent Classification Network for Human-Robot Systems},
   author={Li, Yu and Dong, Penghao and Yao, Shanshan and Qin, Ruwen},
-  journal={arXiv},
   year={2024},
 }
 ~~~~
@@ -41,5 +40,5 @@ We also used a public dataset of NINAPro DB1, which can be found [here](https://
 Experiment results analysis code is concluded in the paper, details can be found from "Experiment Results/[Experiments_performance_1213.ipynb](https://github.com/yuli1102/Robotic-Inspection-Command-Keywords-RICKs-v2.0/blob/main/Experiment%20Results/Experiments_performance_1213.ipynb)" in this repository.
 
 # Note
-This paper has just been submitted to the IEEE HMS. The citation will be updated later. 
+This paper has just been submitted to the EAAI. The citation will be updated later. 
 Raw data and data processing code can be downloaded now, but the code for the model will be uploaded after acceptance.
